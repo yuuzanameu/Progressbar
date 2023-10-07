@@ -5,7 +5,7 @@ body{
 
 .mapping{
     color: aliceblue;
-    margin-left: 30%;
+    margin-left: 20%;
     display: inline-flex;
     margin-top: 70px;
 }
@@ -26,7 +26,7 @@ body{
     height: 3rem;
     width: 8rem;
     display: block;
-    margin-left: 30%;
+    margin-left: 20%;
     margin-top: 30px;
     background-color: peachpuff;
 }
